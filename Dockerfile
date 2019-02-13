@@ -37,6 +37,8 @@ RUN conda install --quiet --yes \
     'r-reshape2=1.4*' \
     'r-nycflights13=1.0*' \
     'r-caret=6.0*' \
+    'r-coda=0.19-2*' \
+    'r-rjags=4-8*' \
     'r-rcurl=1.95*' \
     'r-crayon=1.3*' \
     'r-randomforest=4.6*' \
